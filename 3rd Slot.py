@@ -8,8 +8,8 @@ from pynput.keyboard import Controller
 from pynput.keyboard import Key
 import webbrowser as wb
 lst=[
-    ['https://teams.microsoft.com/l/meetup-join/19%3atEnD3oM-UZ3KkGI_RR_tJOHrsYx73YpaWJC4r_hCxz01%40thread.tacv2/1642698995718?context=%7b%22Tid%22%3a%2209bd1956-edda-4e9a-9543-7c7aa2cf4e81%22%2c%22Oid%22%3a%22b4b335bc-1d88-4397-8284-e44c164b6c3b%22%7d','11:48','13:10']
-    
+    ['https://teams.microsoft.com/l/meetup-join/19%3atEnD3oM-UZ3KkGI_RR_tJOHrsYx73YpaWJC4r_hCxz01%40thread.cv2/1642698995718?context=%7b%22Tid%22%3a%2209bd1956-edda-4e9a-9543-7c7aa2cf4e81%22%2c%22Oid%22%3a%22b4b335bc-1d88-4397-8284-e44c164b6c3b%22%7d','11:48','13:10']
+    #Please Input the link of the class here, then the start time, then the leave time...
 #inKput lecture stats in form of list ......
 # ["Link","start_time","end_time"]
 # give time in 24 hrs format...
